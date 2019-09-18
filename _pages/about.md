@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello!
-
 I am a Ph.D. student at [EECS, MIT](https://www.eecs.mit.edu/), supervised by [Prof. Duane Boning](https://www-mtl.mit.edu/wpmu/researchgroupsboning/boning/).
 
 Previously, I obtained my B.S. degree in EE (major) and CS (minor) at [National Taiwan University](http://www.ntu.edu.tw/english).
