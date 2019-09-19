@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+\* indicates equal contribution.
+
 - __Fan-Keng Sun\*__, Cheng-Hao Ho\*, Hung-yi Lee,
 "LAMAL: LAnguage Modeling Is All You Need for Lifelong Language Learning",
 _under submission_
