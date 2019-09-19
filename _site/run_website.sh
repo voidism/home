@@ -1,3 +1,3 @@
 #!/bin/bash
 
-bundle exec jekyll liveserve
+bundle exec jekyll serve
