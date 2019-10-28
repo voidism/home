@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fan-Keng Sun"
+title: "Yung-Sung Chuang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at [EECS, MIT](https://www.eecs.mit.edu/), supervised by [Prof. Duane Boning](https://www-mtl.mit.edu/wpmu/researchgroupsboning/boning/).
+I am a undergrad student in electrical engineering at National Taiwan University, supervised by [Prof. Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/index.html). Here is my [Curriculum Vitae](/files/CV.pdf).
 
-Previously, I obtained my B.S. degree in [EE](https://web.ee.ntu.edu.tw/eng/index.php) (major) and [CS](https://www.csie.ntu.edu.tw/main.php) (minor) at [National Taiwan University](http://www.ntu.edu.tw/english).
-During undergraduate, I worked with [Prof. Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/index.html) and [Prof. Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) on machine learning.
-I also worked with [Prof. Yao-Wen Chang](http://cc.ee.ntu.edu.tw/~ywchang/) on electronic design automation.
-
-My research interest is machine learning and deep learning for sequence modeling, including time series analysis and natural language processing.
+My research interest is machine learning and deep learning for natural language processing and speech processing. I will share some notes or articles during my study in my [blog](https://voidism.github.io). Thanks for reading and taking the time to comment :)

@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fan-Keng Sun"
+title                    : "Yung-Sung Chuang"
 title_separator          : "-"
-name                     : "Fan-Keng Sun"
-description              : "Ph.D."
-url                      : https://daikon-sun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Yung-Sung Chuang"
+description              : "Undergrad Student"
+url                      : https://voidism.github.io/home # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Daikon-Sun/Daikon-Sun.github.io"
+repository               : "voidism/home"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fan-Keng Sun"
+  name             : "Yung-Sung Chuang"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at EECS, MIT"
-  email            : "fankeng AT mit DOT edu"
+  bio              : "Undergrad student at National Taiwan University"
+  email            : "b05901033[AT]ntu.edu.tw"
   CV               : "/files/CV.pdf"
-  googlescholar    : "https://scholar.google.com/citations?user=sfEwE4gAAAAJ&hl=en"
-  dblp             : "https://dblp.org/pers/hd/s/Sun:Fan=Keng"
-  github           : "Daikon-Sun"
-  linkedin         : "fan-keng-sun"
-  location         : # "Cambridge, Massachusetts"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=3ar1DOwAAAAJ"
+  dblp             : "https://dblp.org/pers/hd/c/Chuang:Yung=Sung"
+  github           : "voidism"
+  linkedin         : "yschuang"
+  location         : #"Taipei, Taiwan"
   employer         : 
   pubmed           :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -111,7 +111,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : https://twitter.com/YungSungChuang
   vine             :
   weibo            :
   xing             :
