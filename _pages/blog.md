@@ -1,5 +1,7 @@
 ---
+layout: archive
+title: "Blog"
 permalink: /blog/
+author_profile: true
+redirect_to: https://voidism.github.io/
 ---
-
-<meta http-equiv="refresh" content="0;url='https://voidism.github.io'">
