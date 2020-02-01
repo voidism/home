@@ -36,4 +36,4 @@ Talks
 | Topic | Event | Time |
 | -------- | -------- | -------- |
 | [Non-autoregressive Conditional Sequence Modeling](https://docs.google.com/presentation/d/1FljjEfu3FksLGLd4efy80d5jiomqEkgNeQZB6HBno0s/edit?usp=sharing) | SPML Lab Group Meeting | 2020.01 |
-| [Unsupervised Syntactic Parsing](https://voidism.github.io/video/2019/03/28/Unsupervised_Syntactic_Parsing/) | Machine Learning 2019 Spring / CyCarrier Group Meeting | 2019.03 / 2019.04 |
+| [Unsupervised Syntactic Parsing](https://www.youtube.com/watch?v=YIuBHB9Ejok) | Machine Learning 2019 Spring / CyCarrier Group Meeting | 2019.03 / 2019.04 |

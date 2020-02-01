@@ -248,6 +248,7 @@ DEPENDENCIES
   github-pages
   hawkins
   jekyll-feed
+  jekyll-redirect-from
   jekyll-sitemap
 
 BUNDLED WITH
