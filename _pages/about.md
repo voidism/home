@@ -17,18 +17,20 @@ Publications
 
 $^\dagger$ indicates equal contribution.
 
-- __Yung-Sung Chuang__, Chi-Liang Liu , Hung-Yi Lee. 
-“SpeechBERT: Cross-Modal Pre-trained Language Model for End-to-end
-Spoken Question Answering”. 
-_Submitted to ICASSP 2020; arXiv preprint https://arxiv.org/abs/1910.11559_
 
-- Alexander Te-Wei Shieh$^\dagger$, __Yung-Sung Chuang__$^\dagger$, Shang-Yu Su, Yun-Nung Chen. 
-“Towards Understanding of Medical Randomized Controlled Trials by Conclusion Generation”. 
-In _Proceedings of the 10th International Workshop on Health Text Mining and Information Analysis at EMNLP (LOUHI 2019)_
+<table>
+<tr>
+    <td><img src="https://i.imgur.com/I4fA5uK.png" alt="SpeechBERT" width="300"></td>
+    <td style="font-size: 17px; line-height: 1.4em;">
+<a href="https://arxiv.org/abs/1910.11559">SpeechBERT: Cross-Modal Pre-trained Language Model for End-to-end
+Spoken Question Answering</a><br/> <strong>Yung-Sung Chuang</strong>, Chi-Liang Liu , Hung-Yi Lee. <br/><i>arXiv Preprint https://arxiv.org/abs/1910.11559</i></td>
+</tr>
+<tr>
+    <td><img src="https://i.imgur.com/sTKvjNv.png" alt="RCT-Gen" width="300"></td>
+    <td style="font-size: 17px; line-height: 1.4em;"><a href="https://www.aclweb.org/anthology/D19-6214.pdf">Towards Understanding of Medical Randomized Controlled Trials by Conclusion Generation</a> <br/> Alexander Te-Wei Shieh<sup>&#8224;</sup>, <strong>Yung-Sung Chuang</strong><sup>&#8224;</sup>, Shang-Yu Su, Yun-Nung Chen.<br/> In <i>Proceedings of the 10th International Workshop on Health Text Mining and Information Analysis at EMNLP (LOUHI 2019) </i></td>
+</tr>
+</table>
 
-- __Yung-Sung Chuang__. 
-“Robust Chinese Word Segmentation with Contextualized Word Representations”.
-_arXiv preprint https://arxiv.org/abs/1901.05816_
 
 Short Talks
 ===
@@ -37,6 +39,26 @@ Short Talks
 | -------- | -------- | -------- |
 | [Non-autoregressive Conditional Sequence Modeling](https://docs.google.com/presentation/d/1FljjEfu3FksLGLd4efy80d5jiomqEkgNeQZB6HBno0s/edit?usp=sharing) | SPML Lab Group Meeting | 2020.01 |
 | [Unsupervised Syntactic Parsing](https://www.youtube.com/watch?v=YIuBHB9Ejok) | Machine Learning 2019 Spring@NTU / CyCarrier@Taipei | 2019.03 / 2019.04 |
+
+Projects
+===
+<table>
+<tr>
+    <td><img src="https://i.imgur.com/EtOhFhl.png" alt="MDDA" width="300"></td>
+    <td style="font-size: 17px; line-height: 1.4em;">
+<a href="https://voidism.github.io/pdfs/2019_DLCV_Final_Project_Poster_(final).pdf">Multi-Source Unsupervised Domain Adaptation Challenge</a><br/><strong>Yung-Sung Chuang</strong>, Chen-Yi Lan, Hung-Ting Chen, Chang-Le Liu. <br/></td>
+</tr>
+<tr>
+    <td><img src="https://i.imgur.com/DaR48di.png" alt="PyWordSeg" width="300"></td>
+    <td style="font-size: 17px; line-height: 1.4em;">
+<a href="https://arxiv.org/abs/1901.05816">Robust Chinese Word Segmentation with Contextualized Word Representations</a><br/><strong>Yung-Sung Chuang</strong>. <br/>Pypi Link: <a href="https://pypi.org/project/pywordseg/">https://pypi.org/project/pywordseg/</a></td>
+</tr>
+<tr>
+    <td><img src="https://i.imgur.com/WuCpQW5.png" alt="MTRS" width="300"></td>
+    <td style="font-size: 17px; line-height: 1.4em;">
+<a href="https://voidism.github.io/project/2018/07/06/Some-Baseline-Methods-for-Multi-Turn-Response-Selection/">Chinese Multi Turn Response Selection</a><br/><strong>Yung-Sung Chuang</strong>, Hsing-Chien Wang, Yi-Ting Hsieh. <br/></td>
+</tr>
+</table>
 
 Current Research Topics
 ===
