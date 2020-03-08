@@ -11,7 +11,7 @@ $^\dagger$ indicates equal contribution.
 - __Yung-Sung Chuang__, Chi-Liang Liu , Hung-Yi Lee. 
 “SpeechBERT: Cross-Modal Pre-trained Language Model for End-to-end
 Spoken Question Answering”. 
-_Submitted to ICASSP 2020; arXiv preprint https://arxiv.org/abs/1910.11559_
+_In submission; arXiv preprint https://arxiv.org/abs/1910.11559_
 
 - Alexander Te-Wei Shieh$^\dagger$, __Yung-Sung Chuang__$^\dagger$, Shang-Yu Su, Yun-Nung Chen. 
 “Towards Understanding of Medical Randomized Controlled Trials by Conclusion Generation”. 
