@@ -37,14 +37,21 @@ Spoken Question Answering</a><br/> <strong>Yung-Sung Chuang</strong>, Chi-Liang 
 </tr>
 </table>
 
+  
+   
 
 Short Talks
 ===
+## [Non-Autoregressive Conditional Sequence Modeling](https://www.youtube.com/embed/jvyKmU4OM3c)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvyKmU4OM3c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-| Topic | Event | Time |
-| -------- | -------- | -------- |
-| [Non-autoregressive Conditional Sequence Modeling](https://docs.google.com/presentation/d/1FljjEfu3FksLGLd4efy80d5jiomqEkgNeQZB6HBno0s/edit?usp=sharing) | SPML Lab Group Meeting | 2020.01 |
-| [Unsupervised Syntactic Parsing](https://www.youtube.com/watch?v=YIuBHB9Ejok) | Machine Learning 2019 Spring@NTU / CyCarrier@Taipei | 2019.03 / 2019.04 |
+## [Unsupervised Syntactic Parsing](https://www.youtube.com/watch?v=YIuBHB9Ejok)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YIuBHB9Ejok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+  
+
+  
 
 Current Research Topics
 ===
