@@ -21,6 +21,16 @@ $^\dagger$ indicates equal contribution.
 <table>
 
 <tr>
+    <td><img src="https://i.imgur.com/a71dNjj.png" alt="L2KD" width="300"></td>
+    <td style="font-size: 17px; line-height: 1.4em;">
+<a href="https://voidism.github.io/home/">Lifelong Language Knowledge Distillation</a><br/> <strong>Yung-Sung Chuang</strong>, Shang-Yu Su, Yun-Nung Chen. <br/><i>Accepted by EMNLP 2020 conference</i></td>
+</tr>
+<tr>
+    <td><img src="https://i.imgur.com/5bMe55S.png" alt="DualInf" width="300"></td>
+    <td style="font-size: 17px; line-height: 1.4em;">
+<a href="https://arxiv.org/abs/1910.11559">Dual Inference for Improving Language Understanding and Generation</a><br/> <strong>Yung-Sung Chuang<sup>&#8224;</sup></strong>,  Shang-Yu Su<sup>&#8224;</sup>, Yun-Nung Chen. <br/><i>Accepted by Findings of EMNLP 2020</i></td>
+</tr>
+<tr>
     <td><img src="https://i.imgur.com/Lbw7MIT.png" alt="MDS" width="300"></td>
     <td style="font-size: 17px; line-height: 1.4em;">
 <a href="https://arxiv.org/abs/2004.09205">A Study of Cross-Lingual Ability and Language-specific Information in Multilingual BERT</a><br/>Chi-Liang Liu<sup>&#8224;</sup>, Tsung-Yuan Hsu<sup>&#8224;</sup>, <strong>Yung-Sung Chuang<sup>&#8224;</sup></strong>, Hung-Yi Lee. <br/><i>Accepted by RepL4NLP at ACL 2020; arXiv Preprint <a href="https://arxiv.org/abs/2004.09205">https://arxiv.org/abs/2004.09205</a></i></td>
@@ -28,11 +38,11 @@ $^\dagger$ indicates equal contribution.
 <tr>
     <td><img src="https://i.imgur.com/I4fA5uK.png" alt="SpeechBERT" width="300"></td>
     <td style="font-size: 17px; line-height: 1.4em;">
-<a href="https://arxiv.org/abs/1910.11559">SpeechBERT: An Audio-and-text Jointly Learned Language Model for End-to-end Spoken Question Answering</a><br/> <strong>Yung-Sung Chuang</strong>, Chi-Liang Liu , Hung-Yi Lee, Lin-shan Lee. <br/><i>Accepted by Interspeech 2020; arXiv Preprint <a href="https://arxiv.org/abs/1910.11559">https://arxiv.org/abs/1910.11559</a></i></td>
+<a href="https://arxiv.org/abs/1910.11559">SpeechBERT: An Audio-and-text Jointly Learned Language Model for End-to-end Spoken Question Answering</a><br/> <strong>Yung-Sung Chuang</strong>, Chi-Liang Liu, Hung-Yi Lee, Lin-shan Lee. <br/><i>Accepted by Interspeech 2020; arXiv Preprint <a href="https://arxiv.org/abs/1910.11559">https://arxiv.org/abs/1910.11559</a></i></td>
 </tr>
 <tr>
     <td><img src="https://i.imgur.com/sTKvjNv.png" alt="RCT-Gen" width="300"></td>
-    <td style="font-size: 17px; line-height: 1.4em;"><a href="https://www.aclweb.org/anthology/D19-6214.pdf">Towards Understanding of Medical Randomized Controlled Trials by Conclusion Generation</a> <br/> Alexander Te-Wei Shieh<sup>&#8224;</sup>, <strong>Yung-Sung Chuang</strong><sup>&#8224;</sup>, Shang-Yu Su, Yun-Nung Chen.<br/> In <i>Proceedings of the 10th International Workshop on Health Text Mining and Information Analysis at EMNLP (LOUHI 2019) </i></td>
+    <td style="font-size: 17px; line-height: 1.4em;"><a href="https://www.aclweb.org/anthology/D19-6214.pdf">Towards Understanding of Medical Randomized Controlled Trials by Conclusion Generation</a> <br/> Alexander Te-Wei Shieh<sup>&#8224;</sup>, <strong>Yung-Sung Chuang<sup>&#8224;</sup></strong>, Shang-Yu Su, Yun-Nung Chen.<br/> In <i>Proceedings of the 10th International Workshop on Health Text Mining and Information Analysis at EMNLP (LOUHI 2019) </i></td>
 </tr>
 </table>
 
