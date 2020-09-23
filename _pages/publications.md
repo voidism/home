@@ -7,11 +7,17 @@ author_profile: true
 
 $^\dagger$ indicates equal contribution.
 
+- __Yung-Sung Chuang__, Shang-Yu Su, Yun-Nung Chen.
+“Lifelong Language Knowledge Distillation”. 
+_Accepted by EMNLP 2020 conference_
 
-- __Yung-Sung Chuang__, Chi-Liang Liu , Hung-Yi Lee. 
-“SpeechBERT: Cross-Modal Pre-trained Language Model for End-to-end
-Spoken Question Answering”. 
-_In submission; arXiv preprint https://arxiv.org/abs/1910.11559_
+- __Yung-Sung Chuang__$^\dagger$, Shang-Yu Su$^\dagger$, Yun-Nung Chen.
+“Dual Inference for Improving Language Understanding and Generation”. 
+_Accepted by Findings@EMNLP 2020_
+
+- __Yung-Sung Chuang__, Chi-Liang Liu , Hung-Yi Lee, Lin-shan Lee. 
+“SpeechBERT: An Audio-and-text Jointly Learned Language Model for End-to-end Spoken Question Answering”. 
+_Accepted to Interspeech 2020; arXiv preprint https://arxiv.org/abs/1910.11559_
 
 - Alexander Te-Wei Shieh$^\dagger$, __Yung-Sung Chuang__$^\dagger$, Shang-Yu Su, Yun-Nung Chen. 
 “Towards Understanding of Medical Randomized Controlled Trials by Conclusion Generation”. 
