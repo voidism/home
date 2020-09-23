@@ -15,6 +15,10 @@ _Accepted by EMNLP 2020 conference_
 “Dual Inference for Improving Language Understanding and Generation”. 
 _Accepted by Findings@EMNLP 2020_
 
+- Chi-Liang Liu$^\dagger$, Tsung-Yuan Hsu$^\dagger$, __Yung-Sung Chuang__$^\dagger$, Hung-Yi Lee. 
+“A Study of Cross-Lingual Ability and Language-specific Information in Multilingual BERT”. 
+_arXiv Preprint https://arxiv.org/abs/2004.09205_
+
 - __Yung-Sung Chuang__, Chi-Liang Liu , Hung-Yi Lee, Lin-shan Lee. 
 “SpeechBERT: An Audio-and-text Jointly Learned Language Model for End-to-end Spoken Question Answering”. 
 _Accepted to Interspeech 2020; arXiv preprint https://arxiv.org/abs/1910.11559_
