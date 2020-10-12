@@ -23,12 +23,12 @@ $^\dagger$ indicates equal contribution.
 <tr>
     <td><img src="https://i.imgur.com/a71dNjj.png" alt="L2KD" width="300"></td>
     <td style="font-size: 17px; line-height: 1.4em;">
-<a href="https://voidism.github.io/home/">Lifelong Language Knowledge Distillation</a><br/> <strong>Yung-Sung Chuang</strong>, Shang-Yu Su, Yun-Nung Chen. <br/><i>Accepted by EMNLP 2020 conference</i></td>
+<a href="https://arxiv.org/abs/2010.02123">Lifelong Language Knowledge Distillation</a><br/> <strong>Yung-Sung Chuang</strong>, Shang-Yu Su, Yun-Nung Chen. <br/><i>Accepted by EMNLP 2020 conference; arXiv Preprint <a href="https://arxiv.org/abs/2010.02123">https://arxiv.org/abs/2010.02123</a></i></td>
 </tr>
 <tr>
     <td><img src="https://i.imgur.com/5bMe55S.png" alt="DualInf" width="300"></td>
     <td style="font-size: 17px; line-height: 1.4em;">
-<a href="https://arxiv.org/abs/1910.11559">Dual Inference for Improving Language Understanding and Generation</a><br/> <strong>Yung-Sung Chuang<sup>&#8224;</sup></strong>,  Shang-Yu Su<sup>&#8224;</sup>, Yun-Nung Chen. <br/><i>Accepted by Findings of EMNLP 2020</i></td>
+<a href="https://arxiv.org/abs/2010.04246">Dual Inference for Improving Language Understanding and Generation</a><br/> <strong>Yung-Sung Chuang<sup>&#8224;</sup></strong>,  Shang-Yu Su<sup>&#8224;</sup>, Yun-Nung Chen. <br/><i>Accepted by Findings of EMNLP 2020; arXiv Preprint <a href="https://arxiv.org/abs/2010.04246">https://arxiv.org/abs/2010.04246</a></i></td>
 </tr>
 <tr>
     <td><img src="https://i.imgur.com/Lbw7MIT.png" alt="MDS" width="300"></td>
@@ -38,7 +38,7 @@ $^\dagger$ indicates equal contribution.
 <tr>
     <td><img src="https://i.imgur.com/I4fA5uK.png" alt="SpeechBERT" width="300"></td>
     <td style="font-size: 17px; line-height: 1.4em;">
-<a href="https://arxiv.org/abs/1910.11559">SpeechBERT: An Audio-and-text Jointly Learned Language Model for End-to-end Spoken Question Answering</a><br/> <strong>Yung-Sung Chuang</strong>, Chi-Liang Liu, Hung-Yi Lee, Lin-shan Lee. <br/><i>Accepted by Interspeech 2020; arXiv Preprint <a href="https://arxiv.org/abs/1910.11559">https://arxiv.org/abs/1910.11559</a></i></td>
+<a href="https://arxiv.org/abs/1910.11559">SpeechBERT: An Audio-and-text Jointly Learned Language Model for End-to-end Spoken Question Answering</a><br/> <strong>Yung-Sung Chuang</strong>, Chi-Liang Liu, Hung-Yi Lee, Lin-shan Lee. <br/><i>Accepted by Interspeech 2020; arXiv Preprint <a href="https://arxiv.org/abs/1910.11559">https://arxiv.org/abs/1910.11559</a></i><br/> <strong>This work won Interspeech 2020 Travel Grant.</strong></td>
 </tr>
 <tr>
     <td><img src="https://i.imgur.com/sTKvjNv.png" alt="RCT-Gen" width="300"></td>
@@ -133,6 +133,21 @@ Projects
 <a href="https://github.com/voidism/Big-Two">Big Two Game Environment and Agent in C++</a><br/><strong>Yung-Sung Chuang</strong>, Hsin Cheng. <br/>Final Project in <i>Computer Programming 2017 Fall</i></td>
 </tr>
 </table>
+
+Honors
+===
+- **Dean's list (4 times)**, Electrical Engineering Dept. at NTU, *Spring ’18, Spring ’19, Fall ’19, Spring ’20*
+- **Irving T. Ho Memorial Scholarship (2 times)**, EECS at NTU, *Fall ’18, Fall ’19*
+- **Travel Grant**, INTERSPEECH 2020 conference, *Sep. 2020*
+- **Appier Best Application Award**, 2020 NTU CSIE Undergrad Special Research Exhibition, *Jun. 2020*
+- **2nd Place & Appier 1st Award**, 2019 NTU CSIE Undergrad Special Research Exhibition, *Jun. 2019*
+- **2nd Place**, 2019 NTUEE Undergraduate Innovation Award, *Jun. 2019*
+- **1st Place**, 2018 H. Spectrum Demo Day (out of 21 teams), *Jul. 2018*
+- **1st Place**, NCTS Health Hackathon 2018 (out of 18 teams), *Jun. 2018*
+- **Top 8 Finalist**, Microsoft Imagine Cup Taiwan National Final 2018, *Apr. 2018*
+- **Best Tech Award & Microsoft Enterprise Award**, MakeNTU 2018 (out of 50 teams), *Mar. 2018*
+- **1st place of Dept. of Transportation**, HackNTU 2017 (out of 100+ teams), *Jul. 2017*
+
 
 Competitions
 ===
