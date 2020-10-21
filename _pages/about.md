@@ -49,7 +49,7 @@ $^\dagger$ indicates equal contribution.
   
    
 
-Short Talks
+Short Talks (in Mandarin)
 ===
 ## [Non-Autoregressive Conditional Sequence Modeling](https://www.youtube.com/embed/jvyKmU4OM3c)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jvyKmU4OM3c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -57,11 +57,21 @@ Short Talks
 ## [Unsupervised Syntactic Parsing](https://www.youtube.com/watch?v=YIuBHB9Ejok)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YIuBHB9Ejok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+             
+               
   
-  
+Virtual Conference Videos (in English)
+===
+## [\[INTERSPEECH 2020\] SpeechBERT: An Audio-and-text Jointly Learned Language Model for End-to-end Spoken Question Answering](https://www.youtube.com/watch?v=a6txVSmX7fI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a6txVSmX7fI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## [\[EMNLP 2020\] Lifelong Language Knowledge Distillation](https://www.youtube.com/watch?v=t3Ee5fA8mCo)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t3Ee5fA8mCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   
-
+  
+             
+               
   
   
 Teaching
