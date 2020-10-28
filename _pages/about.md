@@ -18,8 +18,14 @@ Publications
 $^\dagger$ indicates equal contribution.
 
 
+
 <table>
 
+<tr>
+    <td><img src="https://i.imgur.com/nuT5c51.png" alt="L2KD" width="300"></td>
+    <td style="font-size: 17px; line-height: 1.4em;">
+<a href="https://arxiv.org/abs/2010.13826">Semi-Supervised Spoken Language Understanding via Self-Supervised Speech and Language Model Pretraining</a><br/> Cheng-I Lai, <strong>Yung-Sung Chuang</strong>, Hung-Yi Lee, Shang-Wen Li, James Glass. <br/><i>Under review in ICASSP 2021; arXiv Preprint <a href="https://arxiv.org/abs/2010.13826">https://arxiv.org/abs/2010.13826</a></i></td>
+</tr>
 <tr>
     <td><img src="https://i.imgur.com/a71dNjj.png" alt="L2KD" width="300"></td>
     <td style="font-size: 17px; line-height: 1.4em;">
