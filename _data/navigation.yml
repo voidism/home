@@ -10,17 +10,23 @@ main:
   - title: "Blog"
     url: /blog/
 
-    # - title: "Teaching"
-    #   url: /teaching/    
+  - title: "Talks"
+    url: /talks/    
 
-    # - title: "Projects"
-    #   url: /projects/
+  - title: "Videos"
+    url: /videos/
 
-    # - title: "Talks"
-    #   url: /talks/    
+  - title: "Teaching"
+    url: /teaching/    
 
-    # - title: "Portfolio"
-    #   url: /portfolio/
+  - title: "Projects"
+    url: /projects/   
+
+  - title: "Honors"
+    url: /honors/   
+
+  - title: "Competitions"
+    url: /competitions/
         
     # - title: "Blog Posts"
     #   url: /year-archive/
