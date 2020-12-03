@@ -39,7 +39,7 @@ $^\dagger$ indicates equal contribution.
 <tr>
     <td><img src="https://i.imgur.com/Lbw7MIT.png" alt="MDS" width="300"></td>
     <td style="font-size: 17px; line-height: 1.4em;">
-<a href="https://arxiv.org/abs/2004.09205">A Study of Cross-Lingual Ability and Language-specific Information in Multilingual BERT</a><br/>Chi-Liang Liu<sup>&#8224;</sup>, Tsung-Yuan Hsu<sup>&#8224;</sup>, <strong>Yung-Sung Chuang<sup>&#8224;</sup></strong>, Hung-Yi Lee. <br/><i>Accepted by RepL4NLP at ACL 2020; arXiv Preprint <a href="https://arxiv.org/abs/2004.09205">https://arxiv.org/abs/2004.09205</a></i></td>
+<a href="https://arxiv.org/abs/2004.09205">A Study of Cross-Lingual Ability and Language-specific Information in Multilingual BERT</a><br/>Chi-Liang Liu<sup>&#8224;</sup>, Tsung-Yuan Hsu<sup>&#8224;</sup>, <strong>Yung-Sung Chuang<sup>&#8224;</sup></strong>, Hung-Yi Lee. <br/><i>arXiv Preprint <a href="https://arxiv.org/abs/2004.09205">https://arxiv.org/abs/2004.09205</a></i></td>
 </tr>
 <tr>
     <td><img src="https://i.imgur.com/I4fA5uK.png" alt="SpeechBERT" width="300"></td>
